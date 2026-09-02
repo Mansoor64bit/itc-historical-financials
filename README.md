@@ -1,6 +1,7 @@
 # ITC Ltd. — Historical Financial Statements & Power BI Dashboard
 
 A 10-year historical financial model for **ITC Ltd.** (FY2017–FY2026, plus LTM and the last 10 quarters), with common-size statements, ratio analysis, a trendline forecast to FY2031, and a Power BI dashboard built on top of it.
+![Power BI Dashboard](@screenshots?06_powerbi_dashboard.png)
 
 ![Historical Financial Statements](screenshots/01_historical_financial_statements.png)
 
